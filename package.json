@@ -1,0 +1,29 @@
+{
+  "name": "learnyounode-stuff",
+  "version": "1.0.0",
+  "description": "only my solutions to learnode problems",
+  "main": "1-helloWorld.js",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanbauer/learnyounode-stuff.git"
+  },
+  "keywords": [
+    "learn",
+    "you",
+    "node"
+  ],
+  "author": "@jeanbauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanbauer/learnyounode-stuff/issues"
+  },
+  "homepage": "https://github.com/jeanbauer/learnyounode-stuff#readme"
+}
