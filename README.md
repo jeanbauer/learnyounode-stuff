@@ -8,6 +8,6 @@
 
 `npm install -g scope-chains-closures`
 
-[functional-javascrip](https://github.com/timoxley/functional-javascript-workshop/blob/master/Readme.md) ./functional 
+[functional-javascript](https://github.com/timoxley/functional-javascript-workshop/blob/master/Readme.md) ./functional 
 
-`npm install -g functiona-javascript-workshop`
+`npm install -g functional-javascript-workshop`
