@@ -1,4 +1,5 @@
-# Your Mission
+# scope-chains-closures - Exercise 5 - Garbage Collection
+
 
 In this challenge, you will be required to use Chrome DevTools for detecting
 Garbage Collection events. Follow these steps to get a feel for what happens
