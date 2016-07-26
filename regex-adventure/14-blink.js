@@ -12,7 +12,7 @@ html output. Here's a template that you can use:
 */
 const marked = require('marked');
 
-module.exports = str => marked(str).replace(/@@(.?)@@/g, '<blink>$1</blink>')
+module.exports = str => marked(str).replace(/@@(.+?)@@/g, '<blink>$1</blink>')
 /*
 For this task, use the `marked` module: `npm install marked`
 
