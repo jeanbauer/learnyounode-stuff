@@ -5,6 +5,7 @@
   "main": "1-helloWorld.js",
   "dependencies": {
     "bl": "^1.1.2",
+    "marked": "^0.3.5",
     "through2-map": "^2.0.0"
   },
   "devDependencies": {},
