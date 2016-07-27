@@ -4,6 +4,10 @@
 
 `npm install -g learnyounode`
 
+[functional-javascript](https://github.com/timoxley/functional-javascript-workshop/blob/master/Readme.md) ./functional
+
+`npm install -g functional-javascript-workshop@latest`
+
 [scope-chains-closures](https://github.com/jesstelford/scope-chains-closures/blob/master/README.md) ./closures
 
 `npm install -g scope-chains-closures`
