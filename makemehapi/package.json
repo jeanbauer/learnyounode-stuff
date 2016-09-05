@@ -1,0 +1,14 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "my solutions to makemehapi workshop",
+  "main": "1-hello-hapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeanbauer",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.0.3"
+  }
+}
