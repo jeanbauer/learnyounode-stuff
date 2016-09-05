@@ -2,25 +2,10 @@
   "name": "workshop-solutions",
   "version": "1.0.0",
   "description": "only my solutions to some workshop problems",
-  "main": "1-helloWorld.js",
-  "dependencies": {
-    "bl": "^1.1.2",
-    "marked": "^0.3.5",
-    "through2-map": "^2.0.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeanbauer/learnyounode-stuff.git"
+    "url": "git+https://github.com/jeanbauer/workshop-solutions-stuff.git"
   },
-  "keywords": [
-    "learn",
-    "you",
-    "node"
-  ],
   "author": "@jeanbauer",
   "license": "ISC",
   "homepage": "https://github.com/jeanbauer/"
