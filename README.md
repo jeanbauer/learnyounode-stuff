@@ -1,4 +1,4 @@
-# My solutions for the given workshops
+# My ES6 solutions for the given workshops
 
 | WORKSHOP         |  HOW TO INSTALL       | FOLDER                     |
 | ------------- |:-------------:| --------------------------:|
