@@ -1,0 +1,11 @@
+{
+  "name": "thinking-in-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-break-the-ui-into-a-component-hierarchy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,7 +1,7 @@
 {
-  "name": "learnyounode-stuff",
+  "name": "workshop-solutions",
   "version": "1.0.0",
-  "description": "only my solutions to learnode problems",
+  "description": "only my solutions to some workshop problems",
   "main": "1-helloWorld.js",
   "dependencies": {
     "bl": "^1.1.2",
@@ -23,8 +23,5 @@
   ],
   "author": "@jeanbauer",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jeanbauer/learnyounode-stuff/issues"
-  },
-  "homepage": "https://github.com/jeanbauer/learnyounode-stuff#readme"
+  "homepage": "https://github.com/jeanbauer/"
 }
