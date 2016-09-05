@@ -8,3 +8,6 @@
 |[regex-adventure](https://github.com/substack/regex-adventure)|`npm install -g regex-adventure` |./regex-adventure|
 |[stream-adventure](https://github.com/substack/stream-adventure)| `npm install -g stream-adventure`| ./stream-adventure|
 | [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)|`npm install -g promise-it-wont-hurt`|  ./promise-shop  |
+| [thinking-in-react](https://github.com/asbjornenge/thinking-in-react)| `npm install -g thinking-in-react` | ./thinking-in-react |
+| [makemehapi](https://github.com/hapijs/makemehapi)| `npm install -g makemehapi` | ./makemehapi |
+| [expressworks](https://github.com/azat-co/expressworks)| `npm install -g expressworks` | ./expressworks |
