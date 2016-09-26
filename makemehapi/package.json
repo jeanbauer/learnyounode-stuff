@@ -9,6 +9,14 @@
   "author": "jeanbauer",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^15.0.3"
+    "boom": "^4.0.0",
+    "h2o2": "^5.1.1",
+    "handlebars": "^4.0.5",
+    "hapi": "^15.0.3",
+    "hapi-auth-basic": "^4.2.0",
+    "inert": "^4.0.2",
+    "joi": "^9.0.4",
+    "rot13-transform": "^1.0.0",
+    "vision": "^4.1.0"
   }
 }
