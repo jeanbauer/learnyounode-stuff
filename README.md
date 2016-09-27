@@ -11,3 +11,6 @@
 | [thinking-in-react](https://github.com/asbjornenge/thinking-in-react)| `npm install -g thinking-in-react` | ./thinking-in-react |
 | [makemehapi](https://github.com/hapijs/makemehapi)| `npm install -g makemehapi` | ./makemehapi |
 | [expressworks](https://github.com/azat-co/expressworks)| `npm install -g expressworks` | ./expressworks |
+| [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | `npm install -g learnyoucouchdb` | ./learnyoucouchdb |
+| [levelmeup](https://github.com/workshopper/levelmeup) | `npm install -g levelmeup` | ./levelmeup |
+| [learnyoumongo](https://github.com/evanlucas/learnyoumongo) | `npm install -g learnyoumongo` | ./learnyoumongo |
