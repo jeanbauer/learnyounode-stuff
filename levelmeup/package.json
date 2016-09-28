@@ -1,0 +1,17 @@
+{
+  "name": "levelmeup",
+  "version": "1.0.0",
+  "description": "my solutions for levelmeup workshop",
+  "main": "1-base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeanbauer",
+  "license": "ISC",
+  "dependencies": {
+    "level": "^1.4.0",
+    "level-sublevel": "^6.6.0",
+    "multilevel": "^7.3.0",
+    "net": "^1.0.2"
+  }
+}
